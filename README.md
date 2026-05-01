@@ -93,4 +93,3 @@ Proyecto realizado por **Massiel Perozo** y **Valeria Riera** para la asignatura
 
 ---
 
-Si necesitas que incluya instrucciones para añadir alertas en Prometheus/Alertmanager o ejemplos de dashboards adicionales, dímelo y los agrego. ✨
